@@ -18,10 +18,11 @@ sections:
   - label: Contact Me
     url: "/contact"
   component: content_block.html
-  content: This is the "about" excerpt. It can be used to provide a paragraph about
-    yourself that people can read on the homepage to get a sense of who you are. There
-    also exists a dedicated about page where you can write more about yourself for
-    those who are interested.
+  content: I started building my first sites back in 2005. I used the ugly CMSs available
+    in those times. In 2010, WordPress seemed a beautiful and shiny technology for
+    years to come. Now, in 2020 I reload my site-building CMS experience with Hugo,
+    Netlify, Forestry, and other new and shiny things. Let's see what happens in the
+    next decade.
   image: ''
 - type: postsblock
   template: postsblock
