@@ -15,4 +15,5 @@ Ivan is fond of new technical writing trends including building static sites wit
 
 > Change the rules on what controls you and you will change the rules on what you can control. <cite>Revolver</cite>
 
-_Thank You for reading!_
+_To find more about my experiences, view my online resume:  
+_[https://ivanchebancv.netlify.app/](https://ivanchebancv.netlify.app/ "https://ivanchebancv.netlify.app/")
