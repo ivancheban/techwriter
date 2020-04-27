@@ -5,7 +5,7 @@ sections:
   template: heroblock
   section_id: hero
   component: hero_block.html
-  content: I built this site with Hugo as template for a technical writer's blog.
+  content: I built this site with Hugo as a template for a technical writer's blog.
     It takes 5 minutes and a few mouse clicks. Here, I use GitHub, Forestry, Netlify,
     and Stackbit to glue them all together.
   title: ''
