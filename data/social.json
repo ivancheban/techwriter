@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Telegram",
+      "icon": "fa-telegram",
+      "url": "tg://user?id=ivan_cheban"
+    },
+    {
       "title": "Facebook",
       "icon": "facebook-f",
       "url": "https://www.facebook.com/ivan.cheban.1"
@@ -22,12 +27,6 @@
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://www.linkedin.com/in/ivan-cheban-a24b576/"
-    },
-    {
-      "type": "devto",
-      "title": "DEV",
-      "icon": "fa-dev",
-      "url": "https://dev.to/"
     }
   ]
 }
