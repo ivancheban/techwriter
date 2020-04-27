@@ -9,12 +9,10 @@ menu:
     weight: 4
 
 ---
-**Ivan Cheban** is a Senior Tech Writer from [Stockholm](https://en.wikipedia.org/wiki/Kyiv "Kyiv"), Ukraine. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Ivan Cheban** is a Senior Tech Writer from [Kyiv](https://en.wikipedia.org/wiki/Kiev "Kyiv"), Ukraine. He works as a senior technical writer at EPAM Systems.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Ivan is fond of new technical writing trends including building static sites with Hugo, Jekyll and other static site generators. However, he specializes primarily in MadCap Flare authoring tool.
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+> Change the rules on what controls you and you will change the rules on what you can control. <cite>Revolver</cite>
 
 _Thank You for reading!_
