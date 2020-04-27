@@ -2,7 +2,6 @@
 canonical_url = ""
 content_img_path = "/images/mcapflare-550x550.png"
 date = 2019-06-14T09:00:00Z
-draft = true
 excerpt = "Sometimes you do not want some text to be moved to the next page of your document. In MadCap Flare, there are several ways to avoid page break inside the text."
 layout = "post"
 subtitle = ""
