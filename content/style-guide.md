@@ -1,6 +1,6 @@
 ---
 title: Experiments
-subtitle: Here, I want to experiment with markdown and css.
+subtitle: Here, I want to experiment with markdown and CSS.
 layout: page
 img_path: ''
 menu:
