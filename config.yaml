@@ -5,9 +5,9 @@ params:
   layout_style: overflow
   palette: blue
   header:
-    title: Stackbit Fresh
-    tagline: Header Tagline
-    profile_img: images/avatar.png
+    title: Tech writer
+    tagline: Built with Hugo
+    profile_img: "/images/intro.jpg"
     bg: dark
     has_nav: true
     has_social: true
