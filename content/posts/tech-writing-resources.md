@@ -5,7 +5,7 @@ date: 2019-12-29T22:00:00+00:00
 thumb_img_path: "/images/Tech-writer-resources.jpg"
 content_img_path: "/images/Tech-writer-resources.jpg"
 excerpt: There are some technical writing resources and YouTube videos available for
-  free. Let me suggest some of them that can be useful for a beginners.
+ free. Let me suggest some of them that can be useful for a beginners.
 layout: post
 canonical_url: ''
 
