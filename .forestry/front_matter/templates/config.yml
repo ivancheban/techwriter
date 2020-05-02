@@ -1,5 +1,6 @@
 ---
 label: Global Site Config
+googleAnalytics: = "UA-162550995-7"
 hide_body: true
 fields:
 - type: text
