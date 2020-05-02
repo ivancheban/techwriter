@@ -1,9 +1,11 @@
-+++
-title = "My Photo Gallery"
-date = "2018-06-22"
-hljs = false
-defaultcss = false
-+++
+---
+title: My Photo Gallery
+menu:
+  main:
+    name: My Photo Gallery
+    weight: 6
+layout: page
+---
 
 {{< load-photoswipe >}}
 {{< pswp-gallery >}}
