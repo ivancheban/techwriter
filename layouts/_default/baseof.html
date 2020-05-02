@@ -13,7 +13,7 @@
         <link rel="canonical" href="{{ .Params.canonical_url }}"/>
         {{ end }}
         {{ end }}
-        
+        {{ template "_internal/google_analytics_async.html" . }}
     </head>
     <body>
         
@@ -32,7 +32,7 @@
         <script src="{{ "assets/js/plugins.js" | relURL }}"></script>
         <script src="{{ "assets/js/main.js" | relURL }}"></script>
 
-        {{ partial "google-analytics.html" . }}
+        {{ template "_internal/google_analytics_async.html" . }}
         
     </body> 
 </html>

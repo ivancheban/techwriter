@@ -1,7 +1,7 @@
 ---
 title: Sample site for tech writers
 baseURL: "/"
-google_analytics_id: = "UA-162550995-7"
+googleAnalytics: = "UA-162550995-7"
 params:
   layout_style: overflow
   palette: blue
