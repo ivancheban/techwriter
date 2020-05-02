@@ -1,5 +1,7 @@
 ---
 title: My Photo Gallery
+hljs: false
+defaultcss: false
 menu:
   main:
     name: My Photo Gallery
