@@ -10,6 +10,10 @@ menu:
     weight: 6
 layout: post
 ---
-{{< gallery dir="/img/gallery/" />}}
+{{< gallery >}}
+  {{< figure src="beautiful-bread.jpg" >}}
+  {{< figure src="bountiful-sushi.jpg" >}}
+  {{< figure src="California-Flower-1.jpg" >}}
+{{< /gallery >}}
 
-{{< pswp-gallery >}}
+{{< load-photoswipe >}}
