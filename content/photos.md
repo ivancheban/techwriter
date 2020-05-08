@@ -10,6 +10,8 @@ menu:
     weight: 6
 layout: page
 ---
-
-{{< gallery dir="/img/gallery/" />}} 
 {{< load-photoswipe >}}
+{{< gallery >}}
+{{< figure link="/img/gallery/A-full-house.jpg" caption="Wine" >}}
+{{< figure link="/img/gallery/bountiful-sushi.jpg" caption="Sushi" >}}
+{{< /gallery >}}
