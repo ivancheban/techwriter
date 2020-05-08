@@ -10,7 +10,7 @@ menu:
     weight: 6
 layout: page
 ---
-{{< gallery folder="img/gallery" title="California-Flower-2.jpg" >}}
+{{< gallery folder="gallery" title="California-Flower-2.jpg" >}}
 
 {{< load-photoswipe >}}
 {{< pswp-gallery >}}
