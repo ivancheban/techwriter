@@ -11,9 +11,9 @@ menu:
 layout: post
 ---
 {{< gallery >}}
-  {{< figure src="beautiful-bread.jpg" >}}
-  {{< figure src="bountiful-sushi.jpg" >}}
-  {{< figure src="California-Flower-1.jpg" >}}
+{{< figure link="/img/gallery/beautiful-bread.jpg" thumb="-thumb" caption="Bread" >}}
+{{< figure link="/img/gallery/bountiful-sushi.jpg" thumb="-thumb" caption="Sushi" >}}
+{{< figure link="/img/gallery/California-Flower-1.jpg" thumb="-thumb" caption="Flower" >}}
 {{< /gallery >}}
 
-{{< load-photoswipe >}}
+{{< pswp-init >}
