@@ -10,7 +10,8 @@ menu:
     weight: 6
 layout: page
 ---
-{{< gallery folder="gallery" title="California-Flower-2.jpg" >}}
+
+{{< figure link="/img/gallery/Sleepy-Koala.jpg" thumb="-thumb" >}}
 
 {{< load-photoswipe >}}
 {{< pswp-gallery >}}
