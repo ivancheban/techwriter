@@ -11,4 +11,5 @@ menu:
 layout: page
 ---
 
-{{< gallery dir="/img/gallery/" />}} {{< load-photoswipe >}}
+{{< gallery dir="/img/gallery/" />}} 
+{{< load-photoswipe >}}
