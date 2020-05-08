@@ -1,9 +1,6 @@
 ---
 title: New
-resources:
-- src: "gallery/*.jpg"
-  name: gallery-:counter
-  title: gallery-title-:counter
+cover: /pics/cats/coverimage.jpg"
 menu:
   main:
     name: New
