@@ -11,7 +11,4 @@ menu:
 layout: page
 ---
 
-{{< load-photoswipe >}}
-{{< figure link="/img/gallery/Sleepy-Koala.jpg" thumb="-thumb" >}}
-
-{{< figure link="/img/gallery/bountiful-sushi.jpg" thumb="-thumb" size="1822x928" caption="Sushi" >}}
+{{< gallery dir="/img/gallery/" />}} {{< load-photoswipe >}}
