@@ -11,6 +11,7 @@ menu:
 layout: page
 ---
 
+.HasShortcode "gallery"
 {{< load-photoswipe >}}
 {{< pswp-gallery >}}
   {{< pswp-figure link="/img/gallery/Sleepy-Koala.jpg" thumb="-thumb"
