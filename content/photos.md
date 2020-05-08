@@ -10,6 +10,5 @@ menu:
     weight: 6
 layout: page
 ---
-{{< pswp-init >}}
 
-{{< gallery dir="/img/gallery/" />}}
+{{< gallery dir="/img/gallery/" />}} {{< load-photoswipe >}}
