@@ -7,7 +7,7 @@ resources:
 menu:
   main:
     name: My Photo Gallery
-    weight: 6
+    weight: 5
 layout: page
 ---
 
