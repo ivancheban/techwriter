@@ -10,9 +10,11 @@ menu:
     weight: 6
 layout: page
 ---
-{{< pswp-init >}}
+
+{{< load-photoswipe >}}
+
 {{< gallery >}}
-{{< figure link="/img/gallery/aivazovskiy1.jpg" thumb="-thumb" >}}
+{{< figure link="/img/gallery/aivazovskiy1.jpg" caption="Aivazovskiy1" >}}
 {{< figure link="/img/gallery/aivazovskiy2.jpg" thumb="-thumb" >}}
 {{< figure link="/img/gallery/aivazovskiy3.jpg" thumb="-thumb" >}}
 {{< figure link="/img/gallery/artlib.jpg" thumb="-thumb" >}}
