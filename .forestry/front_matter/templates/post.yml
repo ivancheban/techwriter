@@ -41,7 +41,4 @@ fields:
   config:
     required: true
 pages:
-- content/posts/fragments-of-iceland.md
 - content/posts/how-to-avoid-page-break-inside-the-text.md
-- content/posts/the-ride-in-the-woods.md
-- content/posts/working-from-home.md

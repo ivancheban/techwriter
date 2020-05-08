@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work.
-img_path: "/images/My new photo-1.jpg"
+img_path: "/images/intro.jpg"
 layout: page
 menu:
   main:
