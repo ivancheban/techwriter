@@ -11,5 +11,5 @@ menu:
 layout: page
 ---
 {{< pswp-init >}}
-{{< gallery >}}
+
 {{< gallery dir="/img/gallery/" />}}
