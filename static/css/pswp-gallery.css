@@ -10,8 +10,8 @@
   //border-top: 1px solid lightgrey;
 }
 .gallery img {
-  width: 20%;
-  height: 20%;
+  width: 100%;
+  height: auto;
 }
 .gallery figure {
   display: block;
