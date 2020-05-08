@@ -1,7 +1,7 @@
 ---
 title: My Photo Gallery
 resources:
-- src: "/img/gallery/*.jpg"
+- src: "gallery/*.jpg"
   name: gallery-:counter
   title: gallery-title-:counter
 menu:
