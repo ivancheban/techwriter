@@ -11,7 +11,7 @@ menu:
 layout: page
 ---
 
-{{< load-photoswipe >}}
+{{< pswp-init >}}
 
 {{< gallery >}}
 {{< figure link="/img/gallery/aivazovskiy1.jpg" caption="Aivazovskiy1" >}}
