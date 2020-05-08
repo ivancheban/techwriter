@@ -12,4 +12,4 @@ layout: page
 ---
 {{< gallery dir="/img/gallery/" />}}
 
-{{< load-photoswipe >}}
+{{< pswp-gallery >}}
