@@ -8,7 +8,7 @@ menu:
   main:
     name: My Photo Gallery
     weight: 6
-layout: post
+layout: page
 ---
 
 {{< gallery >}}
