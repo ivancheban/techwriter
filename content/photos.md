@@ -8,7 +8,7 @@ menu:
   main:
     name: My Photo Gallery
     weight: 6
-layout: page
+layout: post
 ---
 {{< gallery dir="/img/gallery/" />}}
 
