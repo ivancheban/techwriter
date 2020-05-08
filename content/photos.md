@@ -11,4 +11,4 @@ menu:
 layout: page
 ---
 
-{{< gallery dir="/img/gallery/" />}}
+{{< gallery dir="/img/gallery/" />}}`
