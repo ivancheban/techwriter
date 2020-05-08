@@ -1,6 +1,6 @@
 {{ define "content" }}
-.HasShortcode "gallery"
-  <article class="post page post-full">
+
+<article class="post page post-full">
     <header class="post-header">
       <h1 class="post-title underline">{{ .Params.title }}</h1>
     </header><!-- .post-header -->
@@ -18,5 +18,5 @@
       {{ .Content }}
     </div><!-- .post-content -->
   </article><!-- .post -->
-
+  {{.HasShortcode "gallery"}}
 {{ end }}
