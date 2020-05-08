@@ -15,9 +15,9 @@ layout: page
 
 {{< gallery >}}
 {{< figure link="/img/gallery/aivazovskiy1.jpg" caption="Aivazovskiy1" >}}
-{{< figure link="/img/gallery/aivazovskiy2.jpg" thumb="-thumb" >}}
-{{< figure link="/img/gallery/aivazovskiy3.jpg" thumb="-thumb" >}}
-{{< figure link="/img/gallery/artlib.jpg" thumb="-thumb" >}}
-{{< figure link="/img/gallery/me-full.jpg" thumb="-thumb" >}}
-{{< figure link="/img/gallery/me-embroidery.jpg" thumb="-thumb" >}}
+{{< figure link="/img/gallery/aivazovskiy2.jpg" caption="Aivazovskiy2" >}}
+{{< figure link="/img/gallery/aivazovskiy3.jpg" caption="Aivazovskiy3" >}}
+{{< figure link="/img/gallery/artlib.jpg" caption="Ships" >}}
+{{< figure link="/img/gallery/me-full.jpg" caption="Ivan" >}}
+{{< figure link="/img/gallery/me-embroidery.jpg" caption="Betlab" >}}
 {{< /gallery >}}
