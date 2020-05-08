@@ -12,6 +12,7 @@ layout: page
 ---
 {{< pswp-init >}}
 {{< gallery >}}
-{{< figure link="/img/gallery/A-full-house.jpg" thumb="-thumb" caption="Wine" >}}
-{{< figure link="/img/gallery/bountiful-sushi.jpg" thumb="-thumb" caption="Sushi" >}}
+{{< figure link="/img/gallery/aivazovskiy1.jpg" thumb="-thumb" >}}
+{{< figure link="/img/gallery/aivazovskiy2.jpg" thumb="-thumb" >}}
+{{< figure link="/img/gallery/aivazovskiy3.jpg" thumb="-thumb" >}}
 {{< /gallery >}}
