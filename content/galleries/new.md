@@ -5,7 +5,6 @@ menu:
   main:
     name: New
     weight: 7
-layout: post
 ---
 
 {{< wrap >}}
