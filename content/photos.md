@@ -10,6 +10,7 @@ menu:
     weight: 6
 layout: post
 ---
+
 {{< gallery >}}
 {{< figure link="/img/gallery/beautiful-bread.jpg" thumb="-thumb" caption="Bread" >}}
 {{< figure link="/img/gallery/bountiful-sushi.jpg" thumb="-thumb" caption="Sushi" >}}
