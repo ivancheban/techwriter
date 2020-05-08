@@ -1,7 +1,9 @@
 ---
 title: My Photo Gallery
-hljs: false
-defaultcss: false
+resources:
+- src: "/img/gallery/*.jpg"
+  name: gallery-:counter
+  title: gallery-title-:counter
 menu:
   main:
     name: My Photo Gallery
