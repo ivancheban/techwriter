@@ -42,3 +42,4 @@ fields:
     required: true
 pages:
 - content/posts/how-to-avoid-page-break-inside-the-text.md
+- content/posts/update-on-technical-writing-tools.md
