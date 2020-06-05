@@ -13,10 +13,10 @@ title = "Update on technical writing tools"
 
 > **_You_**'**_ll never know until you try_**.
 
-***
-
 It's been only 3 months since I've started experimenting with static site generators, Markdown, AsciiDoc, and other interesting things. In these posts I want to tell you about my experience in this area: what I liked and where I failed.
 
 ## Visual Studio Code
+
+{{< figure src="/images/vscode.png" title="Visual Studio Code" >}}
 
 This is a multi-purpose tool: developers use it for coding as an IDE.
