@@ -22,6 +22,6 @@ It's been only 3 months since I've started experimenting with static site genera
 This is a multi-purpose tool: developers use it for coding as an IDE.
 
 **Note.** In case of a merge conflict, merge your changes and use:
-* git add .
-* git commit -m "fix merge issue"
-* git push
++ git add .
++ git commit -m "fix merge issue"
++ git push
