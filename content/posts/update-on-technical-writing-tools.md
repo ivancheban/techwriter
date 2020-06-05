@@ -17,6 +17,6 @@ It's been only 3 months since I've started experimenting with static site genera
 
 ## Visual Studio Code
 
-{{< figure src="/images/vscode.png" title="Visual Studio Code" >}}
+{{< figure src="/images/vscode.png" >}}
 
 This is a multi-purpose tool: developers use it for coding as an IDE.
