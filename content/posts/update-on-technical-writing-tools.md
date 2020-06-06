@@ -28,8 +28,11 @@ Here are some basics that I use in VSCode:
 1. Download and install VSCode:  
    [https://code.visualstudio.com/download](https://code.visualstudio.com/download "https://code.visualstudio.com/download")
 2. Open your project folder: `Ctrl+O`
-3. Use VSCode for git command:   
-   {{< figure src="/images/vscode-git.png" >}}
+3. Use VSCode for git commands:  
+    {{< figure src="/images/vscode-git.png" >}}
+4. Toggle word wrap: `Alt+Z`
+5. Open **Extensions** from **View** in the main menu:  
+   {{< figure src="/images/vscode-extensions.png" >}}
 
 **Note.** In case of a merge conflict, merge your changes and use:
 
