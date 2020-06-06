@@ -19,10 +19,20 @@ It's been only 3 months since I've started experimenting with static site genera
 
 {{< figure src="/images/vscode.png" >}}
 
-This is a multi-purpose tool: developers use it for coding as an IDE.
+<br>
+
+This is a multi-purpose tool: developers use it for coding as an IDE. However, I found out that some technical writers use VSCode for writing and editing their documents.
+
+Here are some basics that I use in VSCode:
+
+1. Download and install VSCode:  
+   [https://code.visualstudio.com/download](https://code.visualstudio.com/download "https://code.visualstudio.com/download")
+2. Open your project folder: `Ctrl+O`
+3. Use VSCode for git command:   
+   {{< figure src="/images/vscode-git.png" >}}
 
 **Note.** In case of a merge conflict, merge your changes and use:
 
-1. `git add .`
-2. `git commit -m "fix merge issue"`
-3. `git push`
+    git add .
+    git commit -m "fix merge issue"
+    git push
