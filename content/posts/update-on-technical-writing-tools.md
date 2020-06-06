@@ -33,6 +33,9 @@ Here are some basics that I use in VSCode:
 4. Toggle word wrap: `Alt+Z`
 5. Open **Extensions** from **View** in the main menu:  
    {{< figure src="/images/vscode-extensions.png" >}}
+6. Search for useful extensions such as **Markdown Preview Enhanced** and click **Install**.
+7. Click the icon for Markdown Preview Enhanced to show preview of your current document in the side panel.  
+   {{< figure src="/images/markdown-preview.png" >}}
 
 **Note.** In case of a merge conflict, merge your changes and use:
 
