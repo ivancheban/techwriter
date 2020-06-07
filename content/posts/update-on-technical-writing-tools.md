@@ -36,7 +36,8 @@ Here are some basics that I use in VSCode:
 6. Search for useful extensions such as **Markdown Preview Enhanced** and click **Install**.
 7. Click the icon for Markdown Preview Enhanced to show preview of your current document in the side panel.  
    {{< figure src="/images/markdown-preview.png" >}}
-8. Find text in files: `Ctrl+Shift+F`
+8. Find text in the files of your open project: `Ctrl+Shift+F`  
+   {{< figure src="/images/find-in-files.png" >}}
 
 **Note.** In case of a merge conflict, merge your changes and use:
 
