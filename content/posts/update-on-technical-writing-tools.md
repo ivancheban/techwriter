@@ -28,14 +28,15 @@ Here are some basics that I use in VSCode:
 1. Download and install VSCode:  
    [https://code.visualstudio.com/download](https://code.visualstudio.com/download "https://code.visualstudio.com/download")
 2. Open your project folder: `Ctrl+O`
-3. Use VSCode for git commands:  
-    {{< figure src="/images/vscode-git.png" >}}
+3. Use VSCode for git commands: `Ctrl+Shift+P`  
+   {{< figure src="/images/vscode-git.png" >}}
 4. Toggle word wrap: `Alt+Z`
-5. Open **Extensions** from **View** in the main menu:  
+5. Open **Extensions**: `Ctrl+Shift+X`  
    {{< figure src="/images/vscode-extensions.png" >}}
 6. Search for useful extensions such as **Markdown Preview Enhanced** and click **Install**.
 7. Click the icon for Markdown Preview Enhanced to show preview of your current document in the side panel.  
    {{< figure src="/images/markdown-preview.png" >}}
+8. Find text in files: `Ctrl+Shift+F`
 
 **Note.** In case of a merge conflict, merge your changes and use:
 
