@@ -1,5 +1,4 @@
 ---
-thumb_img_path = "/images/tutorials.jpg"
 title = "AsciiDoc"
 ---
 
