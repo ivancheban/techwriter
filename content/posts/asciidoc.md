@@ -1,5 +1,5 @@
 ---
-title = "AsciiDoc"
+title = AsciiDoc
 ---
 
 = Work with the Handlebars Templates
