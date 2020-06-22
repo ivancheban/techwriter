@@ -1,6 +1,7 @@
-+++
-title = "AsciiDoc"
-+++
+---
+title: Templates
+weight: 20
+---
 
 = Work with the Handlebars Templates
 // Settings:
