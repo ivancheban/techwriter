@@ -7,8 +7,6 @@ layout = "post"
 subtitle = ""
 thumb_img_path = "/images/tutorials.jpg"
 title = "AsciiDoc"
-:idprefix:
-:idseparator: -
 ---
 
 = Work with the Handlebars Templates
