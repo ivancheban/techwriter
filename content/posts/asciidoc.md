@@ -1,4 +1,4 @@
-+++
+---
 canonical_url = ""
 content_img_path = "/images/tutorials.jpg"
 date = 2020-06-04T14:00:00Z
@@ -7,8 +7,9 @@ layout = "post"
 subtitle = ""
 thumb_img_path = "/images/tutorials.jpg"
 title = "AsciiDoc"
-
-+++
+:idprefix:
+:idseparator: -
+---
 
 = Work with the Handlebars Templates
 // Settings:
