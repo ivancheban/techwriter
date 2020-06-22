@@ -1,10 +1,4 @@
 ---
-canonical_url = ""
-content_img_path = "/images/tutorials.jpg"
-date = 2020-06-04T14:00:00Z
-excerpt = "This post starts a series of posts on technical writing tools that I use or plan to use."
-layout = "post"
-subtitle = ""
 thumb_img_path = "/images/tutorials.jpg"
 title = "AsciiDoc"
 ---
